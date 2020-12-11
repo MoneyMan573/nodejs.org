@@ -62,7 +62,7 @@
     "postcss": "^7.0.25",
     "request": "^2.88.0",
     "sass": "^1.24.0",
-    "semver": "^7.1.1",
+    "semver": "^7.3.2",
     "strftime": "^0.10.0"
   },
   "devDependencies": {
